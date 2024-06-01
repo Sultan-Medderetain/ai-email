@@ -1,5 +1,5 @@
 # TODO List
 
 [x] Implement Auth
-[ ] Prisma Setup
+[x] Prisma Setup
 [ ] Watermark Components
